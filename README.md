@@ -1,5 +1,6 @@
 # nn_final
 Abstract
+
 Alzheimer’s Disease (AD) is a progressive and neurogenerative disease characterized by hippocampal volume loss and decreased cognitive function. One of the most common signs of AD is difficulty with episodic memory. We attempt to replicate impaired episodic memory as a representation of overall cognitive decline by adjusting hippocampal volume loss in different cognitive groups: CN, MCI, and AD. In our neural network model, we provided the model with a word pair association task and recorded the time it took to train the model to perfect recall and the accuracy of the training across the cognitive groups. We predict that the CN group would learn the fastest, followed by the MCI then AD group. We found that the model did reproduce our predicted learning rate order. However, the differences in performance between groups is not as accurate when compared to actual human cognitive test scores. Our future steps include using a more expansive view of the hippocampus layout by incorporating more regions and their associated volume loss in AD, such as the Cornu ammonis (CA) and dentate gyrus.
 
 Introduction 
